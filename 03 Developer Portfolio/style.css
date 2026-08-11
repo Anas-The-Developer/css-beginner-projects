@@ -1,0 +1,60 @@
+h1 {
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+
+#p1 {
+    color: lime;
+}
+
+#about {
+    border: 5px solid blueviolet;
+    padding: 10px;
+    margin: 15px;
+}
+
+#skill {
+    border: 10px dashed orange;
+    padding: 20px;
+    margin: 25px;
+}
+
+#project {
+    border: 5px dotted cyan;
+    padding: 30px;
+    margin: 35px;
+}
+
+#goal {
+    border: 3px solid red;
+    padding: 35px;
+    margin: 60px;
+}
+
+h3 {
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.about {
+    color: purple;
+}
+
+.first {
+    color: #800080;
+}
+
+.second {
+    color: #800080;
+
+}
+
+.third {
+    color: orange;
+}
