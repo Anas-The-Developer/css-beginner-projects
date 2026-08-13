@@ -29,6 +29,8 @@ A very simple Restaurant Menu using CSS colours , fonts and CSS box model
 ### 03 - Developer Portfolio
 A very simple portfolio using CSS colours , fonts and CSS box model
 
+### 04 - Student Dashboard
+A very simple Student Dashboard using CSS selectors , colours and fonts
 **## 🎯 Purpose
 
 These projects represent my progress while learning CSS and Web Development.
