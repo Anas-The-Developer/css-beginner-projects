@@ -34,6 +34,7 @@ A very simple Student Dashboard using CSS selectors , colours and fonts
 
 ### 05 - CSS Positioning Playground
 Made a very simple websites using CSS positions , fonts , and colours
+
 **## 🎯 Purpose
 
 These projects represent my progress while learning CSS and Web Development.
