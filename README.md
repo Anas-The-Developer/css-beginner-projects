@@ -10,13 +10,15 @@ A collection of beginner web development projects I built while learning and pra
 ## 📚 CSS Topics Practiced
 
 - CSS Selectors
-- Colors
+- Colours
 - Font Properties
 - Borders
 - Margin
 - Padding
 - Box Model
 - Backgrounds
+- CSS Cascade
+- CSS Positioning
 
 ## 📂 Projects
 
