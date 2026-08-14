@@ -1,0 +1,29 @@
+.static-box {
+    position: static;
+}
+
+.relative-box {
+    position: relative;
+    left: 30px;
+    top: 20px;
+
+}
+
+.absolute-parent {
+    position: relative;
+    left: 50px;
+    top: 25px;
+}
+
+.absolute-child {
+    position: absolute;
+    right: 20px;
+    top: 10px;
+}
+
+button {
+    position: fixed;
+    color: red;
+    bottom: 20px;
+    right: 25px;
+}
