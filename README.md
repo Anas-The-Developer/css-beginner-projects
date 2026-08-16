@@ -38,7 +38,10 @@ A very simple Student Dashboard using CSS selectors , colours and fonts
 Made a very simple websites using CSS positions , fonts , and colours
 
 ### 06 - Bangladesh Flag
-Made a Bangladesh flag using basic and Intermediate CSS
+Made a Bangladesh flag using Basic and Intermediate CSS
+
+### 07 - Loas Flag
+Made a Flag of Loas using Basic and Intermediate CSS
 
 **## 🎯 Purpose
 
