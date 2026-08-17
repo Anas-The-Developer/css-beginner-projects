@@ -43,6 +43,9 @@ Made a Bangladesh flag using Basic and Intermediate CSS
 ### 07 - Loas Flag
 Made a Flag of Loas using Basic and Intermediate CSS
 
+### 08 - France Flag
+Made a France Flag using Basic and Intermediate CSS
+
 **## 🎯 Purpose
 
 These projects represent my progress while learning CSS and Web Development.
