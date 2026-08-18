@@ -19,6 +19,7 @@ A collection of beginner web development projects I built while learning and pra
 - Backgrounds
 - CSS Cascade
 - CSS Positioning
+- CSS Display
 
 ## 📂 Projects
 
@@ -45,6 +46,9 @@ Made a Flag of Loas using Basic and Intermediate CSS
 
 ### 08 - France Flag
 Made a France Flag using Basic and Intermediate CSS
+
+### 09 - CSS Display
+Made Two Websites to practice CSS Display
 
 **## 🎯 Purpose
 
