@@ -20,7 +20,8 @@ A collection of beginner web development projects I built while learning and pra
 - CSS Cascade
 - CSS Positioning
 - CSS Display
-
+- Media Query
+  
 ## 📂 Projects
 
 ### 01 — Profile Card
@@ -50,6 +51,8 @@ Made a France Flag using Basic and Intermediate CSS
 ### 09 - CSS Display
 Made Two Websites to practice CSS Display
 
+### 10 - CSS Design Agency
+Made a very beautiful website using all CSS I have learned 
 **## 🎯 Purpose
 
 These projects represent my progress while learning CSS and Web Development.
