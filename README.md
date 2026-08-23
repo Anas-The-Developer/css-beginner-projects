@@ -57,6 +57,9 @@ Made a very beautiful website by using all CSS I have learned
 ### 11 - Student Dashboard
 Made a Student Dashboard by implementing all CSS I have learned
 
+### 12 - Blog Article
+Made my simple blog article by colours , fonts , floats , box models etc
+
 **## 🎯 Purpose
 
 These projects represent my progress while learning CSS and Web Development.
