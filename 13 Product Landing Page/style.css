@@ -1,0 +1,123 @@
+body {
+    width: 100%;
+    max-width: 100%;
+
+    min-height: 100vh;
+    height: auto;
+
+    margin: 0;
+    padding: 0;
+    
+    background-color: #eeeeff;
+    text-align: center;
+}
+
+.header {
+    border: 2px solid purple;
+    background-color: white;
+    padding: 15px;
+}
+
+.header > div {
+    display: inline-block;
+    margin-right: 50px;
+    
+}
+.navbar {
+    display: inline-block;
+    
+}
+
+.nav-links a {
+    color: red;
+    font-size: larger;
+    margin-right: 15px;
+    
+}
+
+.intro {
+    max-width: 100%;
+    margin: 20px;
+    padding: 10px;
+    background-color: lime;
+    border: 3px solid black;
+    border-radius: 15px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px
+
+}
+
+
+.header h1 {
+    color: navy;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 45px;
+}
+
+.h2 {
+    color: rgba(128, 0, 128, 0.994);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+.p {
+    color: firebrick;
+    font-size: large;
+}
+
+button {
+    background-color: yellowgreen;    
+    color: cyan;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.features{
+    max-width: 100%;
+    margin: 15px;
+    padding: 0px;
+    background-color: cyan;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+.features h3{
+    color:  red;
+    font-size: 25px;
+    padding-top: 5px;
+}
+
+.features p {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    padding: 10px;
+    margin: 15px;
+    margin-top: 0;
+    border-radius: 25px;
+    background-color: orange;
+    color: darkmagenta;
+    border: 3px solid black;
+    font-size: 25px;
+    text-align: center;
+}
+
+footer {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: blue;
+    padding: 10px 15px;
+    border: 2px solid navy;
+    border-radius: 20px;
+}
+footer a{
+    color: white;
+    text-decoration: none;
+}
+
+
+@media (max-width : 600px){
+    .features p {
+        display: block;
+    }
+}
