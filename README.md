@@ -63,6 +63,9 @@ Made my simple blog article by colours , fonts , floats , box models etc
 ### 13 - Product Landing Page
 Made a beautiful Product Landing Website by using all CSS I have learned so far
 
+### 14 - Developer Portfolio
+Made another Developer Portfolio Website but this time by using all concepts I have learned so far.
+
 **## 🎯 Purpose
 
 These projects represent my progress while learning CSS and Web Development.
