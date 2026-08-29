@@ -1,0 +1,209 @@
+body {
+    width: 100%;
+    height: auto;
+    text-align: center;
+    background-color: #f8fafc ;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ffffff;
+    padding: 20px 40px;
+    overflow: hidden;
+    border: 3px solid black;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.15);
+}
+
+.name {
+    font-family: sans-serif;
+    font-size: 45px;
+    display: inline-block;
+    margin-left: 190px;
+    margin-top: 10px;
+    color: blue;
+}
+
+.nav {
+    display: inline-block;
+    padding: 20px;
+    float: right;
+}
+
+.nav a {
+    margin-left: 20px;
+    font-size: large;
+}
+
+.hero {
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+    background-color: #5d86e7;
+    border: 3px solid black;
+    border-radius: 5px;
+}
+
+.hero h1 {
+    color: #ffffff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+}
+
+.hero p {
+    color: #ffffff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+}
+
+.hero a {
+    color: black;
+    font-size: 20px;
+}
+
+.about {
+    background-color: #f8fafc;
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+}
+
+.about img {
+    float: left;
+    width: 350px;
+    height: 250px;
+    border: 3px dotted black;
+    padding: 5px;
+}
+
+.about p {
+    color: blue;
+    font-size: 30px;
+    padding-top: 35px;
+    margin-right: 5px;
+    
+}
+
+.skills {
+    margin-top: 5px;
+    padding: 5px;
+    background-color: aqua;
+}
+
+.skills-container {
+    background-color: aqua;
+    padding: 15px;
+}
+
+.skills h2 {
+    color: maroon;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    margin-top: 10px;
+    
+    padding-bottom: 10px;
+}
+
+.skills strong {
+    font-size: 25px;
+    margin-left: 65px;
+    color: purple;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    border: 3px solid black;
+    border-radius: 15px;
+    padding: 15px;
+    background-color: lime;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
+}
+
+#projects {
+    padding : 30px;
+    
+}
+
+#projects h2 {
+    color: maroon;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+}
+
+.projects {
+    width: 150px;
+    padding: 15px;
+    margin: 10px;
+    border: 3px solid darkorchid;
+    display: inline-block;
+    background-color: lawngreen;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+#project1{
+    position: relative;
+}
+
+.badge {
+    position: absolute;
+    top: -12px;
+    right: -12px;
+    background-color: red;
+    color: white;
+    padding: 5px 8px;
+    border-radius: 10px;
+    font-size: 12px;
+    
+}
+
+button {
+    position: fixed;
+    bottom: 10px;
+    right: 25px;
+    background-color: lime;
+    padding: 8px 15px;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+@media (max-width:600px){
+    .skills strong {
+        display: block;
+        margin: 10px;
+    }
+
+    header {
+        padding: 15px;
+    }
+
+    .name {
+        font-size: 30px;
+        margin-left: 0;
+    }
+
+    .nav {
+        float: none;
+        display: block;
+        padding: 10px;
+    }
+
+    .nav a {
+        margin-left: 8px;
+        font-size: medium;
+    }
+
+    .about {
+        display: block;
+
+    }
+
+    .about img {
+        width: 100px;
+        height: auto;
+        float: none;
+    }
+
+    .about p {
+        font-size: 15px;
+        padding-top: 10px;
+        margin: 10px;
+    }
+}
