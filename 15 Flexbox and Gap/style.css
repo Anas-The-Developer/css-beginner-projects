@@ -1,0 +1,23 @@
+body {
+    background-color: cyan;
+    text-align: center;
+}
+.skills {
+    display: flex;
+    gap: 50px;
+    margin: auto;
+    width: fit-content;
+}
+
+.skills-container h1 {
+    color: blue;
+}
+
+.skills h2 {
+    color: blueviolet;
+
+}
+
+.skills p {
+    color: firebrick;
+}
