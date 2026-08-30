@@ -21,6 +21,7 @@ A collection of beginner web development projects I built while learning and pra
 - CSS Positioning
 - CSS Display
 - Media Query
+- Flexbox
   
 ## 📂 Projects
 
@@ -65,6 +66,9 @@ Made a beautiful Product Landing Website by using all CSS I have learned so far
 
 ### 14 - Developer Portfolio
 Made another Developer Portfolio Website but this time by using all concepts I have learned so far.
+
+### 15 - Flexbox and Gap
+Learned Flexbox and Gap and made a simple website
 
 **## 🎯 Purpose
 
