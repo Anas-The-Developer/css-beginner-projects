@@ -1,0 +1,43 @@
+body {
+    background-color: cyan;
+}
+
+.container1 {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+
+.container1 > .languages {
+    color: blue;
+}
+
+.container2 {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.container2 > .foods {
+    color: orange;
+}
+
+.container3 {
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 25px;
+}
+
+.container3 > .smartphone-companies {
+    color: blueviolet;
+}
+
+.container4 {
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 25px;
+}
+
+.container4 > .cars-companies {
+    color: brown;
+}
