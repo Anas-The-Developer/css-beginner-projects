@@ -70,6 +70,9 @@ Made another Developer Portfolio Website but this time by using all concepts I h
 ### 15 - Flexbox and Gap
 Learned Flexbox and Gap and made a simple website
 
+### 16 - Flex-Direction
+Made a simple website to practice flex direction
+
 **## 🎯 Purpose
 
 These projects represent my progress while learning CSS and Web Development.
