@@ -21,7 +21,7 @@ A collection of beginner web development projects I built while learning and pra
 - CSS Positioning
 - CSS Display
 - Media Query
-- Flexbox
+- Flexbox and its Properties
   
 ## 📂 Projects
 
@@ -72,6 +72,9 @@ Learned Flexbox and Gap and made a simple website
 
 ### 16 - Flex-Direction
 Made a simple website to practice flex direction
+
+## 17 - Flex Layout
+Made a simple website using Flex Layout
 
 **## 🎯 Purpose
 
