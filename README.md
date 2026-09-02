@@ -73,7 +73,7 @@ Learned Flexbox and Gap and made a simple website
 ### 16 - Flex-Direction
 Made a simple website to practice flex direction
 
-## 17 - Flex Layout
+### 17 - Flex Layout
 Made a simple website using Flex Layout
 
 **## 🎯 Purpose
