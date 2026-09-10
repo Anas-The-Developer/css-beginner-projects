@@ -76,6 +76,9 @@ Made a simple website to practice flex direction
 ### 17 - Flex Layout
 Made a simple website using Flex Layout
 
+### 18 - Movie Theater
+Made a movie treater website using concepts which I have leaned.
+
 **## 🎯 Purpose
 
 These projects represent my progress while learning CSS and Web Development.
