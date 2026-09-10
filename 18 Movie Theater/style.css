@@ -1,0 +1,61 @@
+body {
+    background-color: aquamarine;
+    max-width: 100%;
+    font-family: sans-serif;
+}
+
+header {
+    text-align: center;
+    color: blue;
+}
+.cinema {
+    margin: 50px auto;
+    width: 90%;
+    max-width: 900px;
+}
+
+.screen {
+    text-align: center;
+    color: blueviolet;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+}
+
+.seats {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    color: blue;
+}
+
+.exit {
+    background-color: aqua;
+    padding: 15px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+
+.ticket {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+}
+
+@media (max-width: 600px){
+    .cinema {
+        width: 95%;
+        max-width: 500px;
+        
+    }
+
+    .row {
+        gap: 20px;
+    }
+}
