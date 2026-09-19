@@ -77,10 +77,13 @@ Made a simple website to practice flex direction
 Made a simple website using Flex Layout
 
 ### 18 - Movie Theater
-Made a movie treater website using concepts which I have leaned.
+Made a movie treater website using CSS concepts which I have leaned.
 
 ### 19 - Secret Agent Mission
 Made a simple website using different CSS properties
+
+### 20- Racing Pit Shop
+Made a beautiful website of Racing Car using CSS properties
 
 **## 🎯 Purpose
 
