@@ -1,0 +1,155 @@
+body {
+    font-family: sans-serif;
+    max-width: 100%;
+    height: 100vh;
+    background-color: #151922;
+    margin: 0;
+}
+
+.header {
+    text-align: center;
+    font-size: 20px;  
+    padding: 20px;
+}
+
+.header > h1 {
+    color: #ffffff;
+    margin: 0;
+    font-size: 36px;
+}
+
+.header > p {
+    color: #00bfff;
+    margin-bottom: 5px;
+}
+
+.race-info {
+    background-color: #00c9d7;
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.race-info > div > h2 {
+    color: #6a00a8;
+}
+
+.race-info > div > p {
+    color: #063d2e;
+}
+
+.car-area {
+    display: flex;
+    gap: 80px;
+    align-items: center;
+    justify-content: center;
+
+    margin: 40px auto;
+    padding: 30px;
+
+    border: 3px solid #00bfff;
+    border-radius: 15px;
+    background-color: #292d38;
+    box-shadow: 0 5px 15px black;
+}
+
+.car {
+    font-size: 80px;
+}
+.car-details{
+    text-align: left;
+}
+
+.car-details > h2 {
+    margin-bottom: 20px;
+    color: orange;
+}
+
+.car-details > p {
+    margin: 8px auto;
+    color: #ff69b4;
+}
+
+.pit-team {
+    background-color: #20242e;
+    padding: 20px;
+    margin: 20px 10px;
+    border-radius: 15px;
+}
+.pit-team > h2 {
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 30px;
+}
+
+.crew {
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+    margin-bottom: 45px;
+    flex-wrap: wrap;
+}
+
+.member {
+    border: 3px solid #00ff88;
+    padding: 15px;
+    border-radius: 15px;
+    position: relative;
+    width: 120px;
+    box-sizing: border-box;
+    text-align: center;
+    background-color:  #171a21;
+    box-shadow: 0 4px 10px black;
+}
+
+.member:hover {
+    transform: translateY(-5px);
+}
+
+.icon {
+    text-align: center;
+    font-size: 25px;
+}
+
+.member > h3{
+    color: springgreen;
+    margin: 10px 0;
+}
+
+.member > p {
+    color: cornflowerblue;
+    text-align: center;
+    margin: 5px 0;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    padding-inline: 20px;
+    color: #ffffff;
+}
+
+@media (max-width : 600px) {
+    .race-info{
+        flex-wrap: wrap;
+        gap: 30px;
+    }
+
+    .car-area{
+        flex-direction: column;
+        gap: 20px;
+        text-align: center;
+    }
+
+    .car-details {
+        text-align: center;
+    }
+
+    .footer{
+        flex-direction: column;
+        align-items: center;
+        gap: 15px;
+    }
+}
