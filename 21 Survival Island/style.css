@@ -1,0 +1,181 @@
+.island {
+    max-width: 1000px;
+    height: 900px;
+    margin: 30px auto;
+    text-align: center;
+    padding: 25px;
+    background-color: #d9b36c;
+    border-radius: 15px;
+    font-family: sans-serif;
+
+    box-sizing: border-box;
+    box-shadow:  0 8px 20px rgba(0, 0, 0, 0.3);
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 10px 20px;
+    margin-bottom: 30px;
+
+    background-color: #315f3b;
+    color: white;
+    border-radius: 12px;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 30px;
+}
+
+.header p {
+    margin: 8px 0 0;
+    font-size: 14px;
+}
+
+.day h2 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.main-area {
+    display: flex;
+    justify-content: space-around;
+    align-items: stretch;
+    gap: 30px;
+    margin-bottom: 35px;
+    
+}
+
+.camp,
+.map {
+    /* Added */
+    flex: 1;
+
+    padding: 25px;
+
+    border: 2px solid #654321;
+    border-radius: 15px;
+
+    background-color: #f3dfb3;
+
+    /* Added */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+
+.camp h2,.map h2{
+    color: #315f3b;
+}
+
+.island-map {
+    font-size: 30px;
+    padding: 20px;
+    line-height: 1.0;
+}
+
+.supplies {
+    margin-top: 25px;
+}
+
+.supplies > h2 {
+    color: #315f3b;
+    margin-bottom: 20px;
+}
+.supply-list {
+    display: flex;
+    justify-content: space-around;
+    gap: 25px;
+}
+
+.supply {
+    border: 3px solid #8b4513;
+    padding: 25px;
+    flex: 1;
+    border-radius: 12px;
+    background-color: #f8e8c5;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.supply-icon {
+    font-size: 30px;
+}
+
+.supply h3 {
+    color: #315f3b;
+    margin: 10px 0;
+}
+
+.supply p {
+    color: #8b4513;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 0;
+}
+.emergency {
+    padding: 25px;
+    margin-top: 30px;
+    background-color: #6b2d2d;
+    border-radius: 15px;
+    color: white;
+}
+
+.emergency h2 {
+    margin-top: 0;
+}
+
+.emergency button {
+    padding: 12px 25px;
+
+    border: 2px solid white;
+    border-radius: 8px;
+    background-color: #d62828;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+    padding: 10px 15px;
+    background-color: #315f3b;
+    color: white;
+    border-radius: 10px;
+}
+
+@media (max-width : 600px){
+    .island{
+        margin: 20px auto;
+        padding: 13px;
+    }
+
+    .header {
+        padding: 5px 10px;
+        margin-bottom: 20px;
+    }
+
+
+    .day h2 {
+        font-size: 20px;
+    }
+
+    .main-area {
+        margin-bottom: 20px;
+    }
+
+    .camp , .map {
+        padding: 12px;
+    }
+
+    .island-map{
+        font-size: 16px;
+    }
+
+    .island {
+        height: 800px;
+    }
+}
