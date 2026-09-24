@@ -1,0 +1,104 @@
+body {
+    background-color: #151922;
+    font-family: sans-serif;
+    height: 100vh;
+    margin: 0;
+    color: white;
+}
+
+header {
+    color: #ffffff;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+}
+
+header p {
+    color: #00bfff;
+}
+
+.systems {
+    display: flex;
+    gap: 20px;
+    padding: 25px;
+}
+
+.system {
+    flex: 1;
+    padding: 20px;
+    border-radius: 12px;
+    background-color: #222936;
+    color: white;
+    text-align: center;
+}
+
+.system h2 {
+    color: cyan;
+}
+
+.system p {
+    color: purple;
+}
+
+
+.communication {
+    flex-grow: 2;
+}
+
+.mission h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.mission-info {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    max-width: 800px;
+    margin: auto;
+}
+
+.mission-text {
+    flex-basis: 60%;
+    color: pink;
+   
+}
+
+.mission-text h3 {
+    margin-top: 0;
+}
+
+.progress {
+    flex-basis: 40%;
+    color: purple;
+    text-align: center;
+}
+
+.crew {
+    margin-top: 30px;
+}
+.crew h2 {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.crew-list {
+    display: flex;
+    gap: 25px;
+}
+
+.member {
+    flex: 1;
+    padding: 25px;
+    text-align: center;
+    background-color: #222936;
+    border-radius: 12px;
+}
+
+.avatar {
+    font-size: 40px;
+}
+
+.member h3 {
+    color: white;
+}
