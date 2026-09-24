@@ -85,6 +85,12 @@ Made a simple website using different CSS properties
 ### 20- Racing Pit Shop
 Made a beautiful website of Racing Car using CSS properties
 
+### 21 - Survival Island
+Made a beautiful website using CSS different properties
+
+### 22 - Space Station Crew 
+Made a website using Flexbox Sizing and other properties
+
 **## 🎯 Purpose
 
 These projects represent my progress while learning CSS and Web Development.
