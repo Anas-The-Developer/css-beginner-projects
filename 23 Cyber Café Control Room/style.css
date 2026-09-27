@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+    background-color: #617fbe;
+}
+
+.cafe {
+    max-width: 1000px;
+    margin: 40px auto;
+
+}
+
+header {
+    text-align: center;
+    color: white;
+}
+
+.stations {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 2fr 1fr;
+}
+
+.station > h2{
+    color: purple;
+    
+}
+
+.station > p {
+    color: blue;
+}
+
+.station {
+    border: 2px solid black;
+    text-align: center;
+}
